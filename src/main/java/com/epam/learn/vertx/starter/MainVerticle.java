@@ -1,4 +1,4 @@
-package com.example.starter;
+package com.epam.learn.vertx.starter;
 
 import io.vertx.core.AbstractVerticle;
 import io.vertx.core.Promise;
